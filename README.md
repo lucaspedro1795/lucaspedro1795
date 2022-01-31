@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @lucaspedro1795
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Olá, Eu sou @lucaspedro1795
+- 👀 Estou interessado em desenvolver o meu conhecimento a partir de novas e antigas tecnologias, para emergir no mundo da programação.
+- 🌱 Estou aprendendo algumas linguagens de programação que estão sendo mais utilizadas atualmente como por exemplo, Python e JavaScript, mas também estou aprendendo sobre outras que também não deixaram de serem utilizadas e que estão sendo utilizadas bastante como por exemplo, Java e PHP. E o meu maior foco dependendo da linguagem é o desenvolvimento web, que foi onde me encontrei.
+- 💞️ Procuro colaborar na expansão e domínio de conhecimento, pois a melhor maneira que aprendo é ensinando e passando adiante o meu conhecimento.
+- 📫 Meus contatos são os seguintes:
+-    Whatsapp: (88) 9 9823-3921
+-    Email: lucaspedro1795@gmail.com
+-    Instagram e Twitter: @lmorato_d
+-    StackOverflow: Procure por Pedro Lucas, você irá encontrar ele.
+-    Portifólio: Em breve !!! kkkk
+
+- É isso prazer ter você aqui no meu Profile, e me desculpe qualquer coisa, erro, bug, entre outros.
 
 <!---
 lucaspedro1795/lucaspedro1795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
