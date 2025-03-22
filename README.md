@@ -6,7 +6,6 @@
 -    Whatsapp: (88) 9 9823-3921
 -    Email: lucaspedro1795@gmail.com
 -    Instagram e Twitter: @lmorato_d
--    Portifólio: https://pedrolucas-0302.netlify.com
 
 - É isso prazer ter você aqui no meu Profile, e me desculpe qualquer coisa, erro, bug, entre outros.
 
