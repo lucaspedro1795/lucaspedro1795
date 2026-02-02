@@ -7,8 +7,6 @@
 -    Email: lucaspedro1795@gmail.com
 -    Instagram e Twitter: @lmorato_d
 
-- É isso prazer ter você aqui no meu Profile, e me desculpe qualquer coisa, erro, bug, entre outros.
-
 <!---
 lucaspedro1795/lucaspedro1795 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
